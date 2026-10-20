@@ -1,0 +1,183 @@
+date;product_reference;move_type;quantity;origin
+2026-06-01;ST-001;receipt;24;Inventaire initial
+2026-06-01;SC-027;receipt;6;Inventaire initial
+2026-06-01;WC-001;receipt;5;Inventaire initial
+2026-06-01;CS-001;receipt;6;Inventaire initial
+2026-06-01;LB-001;receipt;40;Inventaire initial
+2026-06-01;WB-001;receipt;6;Inventaire initial
+2026-06-01;KB-WL;receipt;6;Inventaire initial
+2026-06-01;TN-COL;receipt;8;Inventaire initial
+2026-06-01;PT-001;receipt;40;Inventaire initial
+2026-06-01;DK-001;receipt;2;Inventaire initial
+2026-06-01;CH-001;receipt;6;Inventaire initial
+2026-06-01;SH-001;receipt;6;Inventaire initial
+2026-06-01;SC-024;receipt;6;Inventaire initial
+2026-06-01;USB-64;receipt;60;Inventaire initial
+2026-06-01;SW-008;receipt;3;Inventaire initial
+2026-06-01;SSD-1T;receipt;8;Inventaire initial
+2026-06-01;FR-001;receipt;5;Inventaire initial
+2026-06-01;HD-001;receipt;12;Inventaire initial
+2026-06-01;MP-001;receipt;30;Inventaire initial
+2026-06-01;AB-001;receipt;20;Inventaire initial
+2026-06-01;MS-ERG;receipt;6;Inventaire initial
+2026-06-01;CB-PWR;receipt;20;Inventaire initial
+2026-06-01;CH-VIS;receipt;4;Inventaire initial
+2026-06-01;KB-001;receipt;15;Inventaire initial
+2026-06-01;LP-001;receipt;5;Inventaire initial
+2026-06-01;SC-001;receipt;20;Inventaire initial
+2026-06-03;CH-001;delivery;3;Service interne
+2026-06-03;CH-001;delivery;1;Service interne
+2026-06-05;PT-001;delivery;2;Service interne
+2026-06-07;SSD-1T;delivery;3;Commande web
+2026-06-08;TR-001;receipt;45;PO-0001
+2026-06-08;PT-001;delivery;19;Vente comptoir
+2026-06-09;SH-001;delivery;3;Commande web
+2026-06-10;KB-001;receipt;20;PO-0004
+2026-06-10;HD-001;delivery;5;Commande web
+2026-06-10;AB-001;delivery;4;Vente comptoir
+2026-06-11;MS-ERG;delivery;2;Service interne
+2026-06-11;AB-001;delivery;2;Vente comptoir
+2026-06-12;TN-COL;delivery;1;Commande web
+2026-06-13;CS-001;receipt;5;PO-0007
+2026-06-14;CB-PWR;receipt;20;PO-0002
+2026-06-14;FR-001;receipt;15;PO-0003
+2026-06-15;AB-001;receipt;30;PO-0008
+2026-06-15;SC-001;delivery;3;Commande web
+2026-06-16;SC-024;receipt;9;PO-0006
+2026-06-16;SC-027;delivery;2;Commande web
+2026-06-19;SH-001;receipt;5;PO-0011
+2026-06-19;HD-001;delivery;2;Vente comptoir
+2026-06-19;SW-008;delivery;2;Vente comptoir
+2026-06-21;SC-024;delivery;3;Vente comptoir
+2026-06-22;TR-001;receipt;60;PO-0010
+2026-06-23;CB-VGA;receipt;15;PO-0009
+2026-06-24;KB-WL;delivery;1;Commande web
+2026-06-25;SH-001;delivery;1;Service interne
+2026-06-25;USB-64;delivery;3;Commande web
+2026-06-26;HB-USB;receipt;20;PO-0012
+2026-06-26;CS-001;delivery;5;Commande web
+2026-06-26;LB-001;delivery;2;Commande web
+2026-06-28;CB-VGA;delivery;4;Vente comptoir
+2026-06-28;HB-USB;delivery;1;Vente comptoir
+2026-06-29;CB-VGA;delivery;5;Vente comptoir
+2026-06-30;SH-001;delivery;3;Commande web
+2026-07-04;AB-001;receipt;30;PO-0014
+2026-07-04;KB-WL;delivery;2;Service interne
+2026-07-04;SSD-1T;delivery;1;Service interne
+2026-07-06;LT-STD;receipt;10;PO-0013
+2026-07-07;AB-001;receipt;40;PO-0018
+2026-07-07;SC-027;delivery;1;Commande web
+2026-07-08;NC-USB;receipt;8;PO-0016
+2026-07-08;PT-001;delivery;3;Commande web
+2026-07-10;PT-001;receipt;60;PO-0017
+2026-07-10;DK-001;receipt;6;PO-0019
+2026-07-10;ST-001;receipt;16;PO-0020
+2026-07-10;LB-001;delivery;4;Commande web
+2026-07-12;SC-027;delivery;2;Service interne
+2026-07-13;SH-001;receipt;5;PO-0022
+2026-07-13;MP-001;delivery;9;Commande web
+2026-07-13;SC-027;delivery;1;Commande web
+2026-07-16;AB-001;delivery;16;Commande web
+2026-07-17;AP-001;receipt;6;PO-0021
+2026-07-17;CH-VIS;delivery;1;Commande web
+2026-07-17;SH-001;delivery;1;Vente comptoir
+2026-07-18;AB-001;delivery;48;Commande web
+2026-07-19;DK-001;delivery;1;Commande web
+2026-07-20;HB-USB;receipt;40;PO-0023
+2026-07-20;FR-001;delivery;3;Service interne
+2026-07-24;PC-001;receipt;60;PO-0025
+2026-07-25;CH-001;delivery;1;Service interne
+2026-07-25;TN-COL;delivery;1;Service interne
+2026-07-26;DK-001;delivery;1;Service interne
+2026-07-26;KB-001;delivery;15;Vente comptoir
+2026-07-27;CT-BLK;receipt;16;PO-0026
+2026-07-29;PC-001;delivery;26;Vente comptoir
+2026-07-30;CH-001;receipt;6;PO-0028
+2026-07-30;CT-BLK;delivery;8;Service interne
+2026-07-31;TN-COL;delivery;2;Service interne
+2026-08-01;LB-001;delivery;11;Commande web
+2026-08-03;SC-024;delivery;2;Commande web
+2026-08-03;LB-001;delivery;7;Commande web
+2026-08-04;CB-PWR;receipt;20;PO-0029
+2026-08-04;LT-STD;delivery;1;Commande web
+2026-08-05;USB-64;delivery;20;Commande web
+2026-08-06;FR-001;delivery;4;Commande web
+2026-08-06;SH-001;delivery;3;Commande web
+2026-08-07;USB-64;receipt;40;PO-0031
+2026-08-07;NC-USB;delivery;2;Commande web
+2026-08-09;DK-USBC;receipt;6;PO-0032
+2026-08-09;CB-PWR;delivery;10;Commande web
+2026-08-09;WB-001;delivery;3;Commande web
+2026-08-10;CS-001;delivery;3;Service interne
+2026-08-12;CB-DP;receipt;45;PO-0035
+2026-08-12;CT-BLK;delivery;1;Commande web
+2026-08-12;CT-BLK;delivery;2;Commande web
+2026-08-13;SC-001;delivery;5;Commande web
+2026-08-13;CH-001;delivery;2;Commande web
+2026-08-14;CH-001;receipt;9;PO-0034
+2026-08-15;AB-001;delivery;14;Service interne
+2026-08-16;LP-001;delivery;1;Service interne
+2026-08-16;CH-001;delivery;7;Vente comptoir
+2026-08-19;CB-PWR;receipt;40;PO-0037
+2026-08-21;CS-001;delivery;2;Commande web
+2026-08-22;SC-001;delivery;2;Commande web
+2026-08-24;KB-WL;delivery;1;Vente comptoir
+2026-08-24;CB-PWR;delivery;26;Vente comptoir
+2026-08-25;SSD-1T;receipt;12;PO-0036
+2026-08-25;CH-001;delivery;3;Vente comptoir
+2026-08-26;SW-008;delivery;1;Commande web
+2026-08-28;CS-001;receipt;8;PO-0039
+2026-08-29;WC-001;receipt;10;PO-0040
+2026-08-30;DK-USBC;delivery;2;Service interne
+2026-09-02;CS-001;receipt;5;PO-0042
+2026-09-03;SC-001;delivery;3;Commande web
+2026-09-03;SSD-1T;delivery;2;Commande web
+2026-09-04;PN-BLU;receipt;120;PO-0041
+2026-09-04;AB-001;receipt;20;PO-0044
+2026-09-06;PN-BLU;delivery;55;Vente comptoir
+2026-09-07;DS-001;receipt;36;PO-0043
+2026-09-07;SSD-1T;receipt;8;PO-0045
+2026-09-07;WB-001;delivery;1;Vente comptoir
+2026-09-07;SC-024;delivery;4;Service interne
+2026-09-09;PT-001;delivery;4;Service interne
+2026-09-10;LP-001;delivery;1;Vente comptoir
+2026-09-11;LT-STD;delivery;4;Vente comptoir
+2026-09-12;AB-001;delivery;17;Commande web
+2026-09-13;HB-USB;delivery;12;Commande web
+2026-09-14;RT-001;receipt;5;PO-0046
+2026-09-14;DK-USBC;receipt;6;PO-0047
+2026-09-16;CT-BLK;delivery;2;Service interne
+2026-09-16;HB-USB;delivery;23;Commande web
+2026-09-17;MS-ERG;delivery;2;Vente comptoir
+2026-09-18;DS-001;receipt;36;PO-0051
+2026-09-18;AP-001;delivery;2;Service interne
+2026-09-18;CT-BLK;delivery;1;Commande web
+2026-09-19;SH-001;delivery;2;Vente comptoir
+2026-09-19;AB-001;delivery;9;Service interne
+2026-09-20;SH-001;delivery;2;Commande web
+2026-09-21;WB-001;delivery;1;Commande web
+2026-09-21;SC-001;delivery;2;Commande web
+2026-09-22;MS-ERG;receipt;24;PO-0049
+2026-09-22;CH-VIS;receipt;8;PO-0050
+2026-09-22;MP-001;receipt;60;PO-0052
+2026-09-22;SSD-1T;delivery;10;Commande web
+2026-09-25;DK-001;delivery;3;Commande web
+2026-09-25;SSD-1T;delivery;6;Commande web
+2026-09-26;FR-001;delivery;5;Service interne
+2026-09-27;CH-VIS;delivery;1;Commande web
+2026-09-27;FR-001;delivery;4;Commande web
+2026-09-28;CH-VIS;delivery;3;Vente comptoir
+2026-09-28;CH-001;delivery;2;Commande web
+2026-09-29;PN-BLU;delivery;1;Commande web
+2026-09-30;ST-001;delivery;2;Vente comptoir
+2026-10-01;DS-001;delivery;35;Vente comptoir
+2026-10-03;DK-USBC;receipt;12;PO-0053
+2026-10-03;FR-001;delivery;2;Service interne
+2026-10-04;AP-001;delivery;1;Commande web
+2026-10-11;DS-001;delivery;15;Vente comptoir
+2026-10-12;DS-001;delivery;9;Vente comptoir
+2026-10-12;TN-COL;delivery;1;Vente comptoir
+2026-10-13;CB-VGA;delivery;1;Vente comptoir
+2026-10-16;CH-VIS;delivery;1;Commande web
+2026-10-16;WB-001;delivery;1;Commande web
+2026-10-17;LP-001;delivery;2;Commande web

@@ -1,0 +1,57 @@
+reference;name;category;unit_price;minimum_quantity
+KB-001;Clavier mécanique;Informatique;89.90;5
+MS-001;Souris sans fil;Informatique;24.90;10
+SC-024;Écran 24 pouces;Informatique;179.00;3
+SC-027;Écran 27 pouces;Informatique;259.00;2
+HD-001;Casque audio;Informatique;59.90;4
+WC-001;Webcam HD;Informatique;49.90;5
+MS-ERG;Souris ergonomique;Informatique;39.90;6
+KB-WL;Clavier sans fil;Informatique;44.90;6
+HB-USB;Hub USB 4 ports;Informatique;19.90;10
+SSD-1T;Disque SSD 1 To;Informatique;89.00;4
+USB-64;Clé USB 64 Go;Informatique;12.90;20
+DK-USBC;Station d'accueil USB-C;Informatique;129.00;3
+SP-001;Haut-parleurs;Informatique;34.90;4
+MP-001;Tapis de souris;Informatique;6.90;15
+LT-STD;Support ordinateur portable;Informatique;29.90;5
+CB-HDMI;Câble HDMI 2 m;Câbles;9.90;20
+CB-USBC;Câble USB-C 1 m;Câbles;7.50;25
+CB-DP;Câble DisplayPort 2 m;Câbles;12.90;15
+CB-ETH;Câble Ethernet 5 m;Câbles;6.50;30
+CB-PWR;Multiprise 6 prises;Câbles;17.90;10
+CB-VGA;Câble VGA 1,5 m;Câbles;8.90;5
+AD-HDMI;Adaptateur USB-C HDMI;Câbles;18.90;10
+RT-001;Routeur Wi-Fi 6;Réseau;119.00;2
+SW-008;Switch 8 ports;Réseau;39.90;3
+AP-001;Point d'accès Wi-Fi;Réseau;89.00;2
+NC-USB;Adaptateur réseau USB;Réseau;22.90;4
+PR-LAS;Imprimante laser;Impression;189.00;2
+TN-BLK;Toner noir;Impression;69.90;6
+TN-COL;Toner couleur;Impression;89.90;4
+CT-BLK;Cartouche encre noire;Impression;24.90;8
+PP-A4;Ramette papier A4;Fournitures;5.20;50
+PP-A3;Ramette papier A3;Impression;11.90;15
+LB-001;Étiquettes adhésives x100;Impression;8.50;20
+DK-001;Bureau réglable;Mobilier;349.00;2
+CH-001;Chaise ergonomique;Mobilier;229.00;3
+LP-001;Lampe de bureau;Mobilier;39.90;5
+CH-VIS;Chaise visiteur;Mobilier;89.00;4
+CS-001;Caisson de rangement;Mobilier;149.00;2
+SH-001;Étagère métallique;Mobilier;99.00;2
+FR-001;Repose-pieds;Mobilier;24.90;5
+WB-001;Tableau blanc 120x90;Mobilier;79.00;2
+ST-001;Agrafeuse;Fournitures;12.50;8
+PN-BLU;Stylos bleus x10;Fournitures;4.90;30
+PN-RED;Stylos rouges x10;Fournitures;4.90;20
+NB-A5;Carnet A5;Fournitures;3.80;40
+HL-001;Surligneurs x4;Fournitures;5.60;25
+PC-001;Trombones x100;Fournitures;1.90;30
+FD-A4;Chemises cartonnées x50;Fournitures;9.90;15
+BD-001;Classeur à levier;Fournitures;3.50;40
+PT-001;Notes adhésives x12;Fournitures;8.90;20
+SC-001;Ciseaux de bureau;Fournitures;4.20;10
+GL-001;Bâtons de colle x3;Fournitures;3.90;20
+WP-001;Lingettes écran x100;Entretien;6.90;10
+DS-001;Spray désinfectant;Entretien;5.50;12
+AB-001;Bombe dépoussiérante;Entretien;7.90;10
+TR-001;Sacs poubelle x50;Entretien;4.50;15
